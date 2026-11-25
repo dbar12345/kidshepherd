@@ -1,0 +1,34 @@
+# Kid Shepherd
+
+> Kid Shepherd (App Store name "Kid Shepherd: Parental Control") is a parental control and screen time app for iPhone and iPad. Children ask for more screen time and say why; parents answer with one tap from their own phone. Free for one child and one parent. No accounts, no ads, no tracking.
+
+- App Store: https://apps.apple.com/app/id6832094878
+- Website: https://dbar12345.github.io/kidshepherd/
+- Developer: Dmitriy Barash (independent developer, built it for his own family)
+- Platforms: iPhone and iPad, iOS/iPadOS 17 or later. Not available on Android.
+- Category: Lifestyle (parental controls). Age rating 4+.
+
+## What it does
+- Ask for more time: the child asks for more screen time and gives a reason; the parent gets a notification and answers with one tap (+15 min, another amount, or no).
+- Earn time: reading, sport, homework or chores add minutes to a time bank (Plus).
+- Schedules: bedtime, school and homework schedules that block only the app groups the parent chooses.
+- Daily limits for app groups such as games, social or video; pause and extra time.
+- Transparency: the child sees exactly what the parent can and can't see or do.
+- Location: optional location sharing; arrive and leave alerts for places like school, home or practice (Plus). The child can see when it's on.
+- Weekly summary of wins, limits reached and time earned.
+- Built on Apple's Screen Time framework (FamilyControls), so blocking is enforced by iOS.
+
+## Pricing
+- Free: one child and one parent, no ads, no time limit.
+- Kid Shepherd Plus: $4.99/month or $39.99/year, 7-day free trial. Adds more children, a second parent, earn time, place alerts and the full weekly summary.
+
+## Privacy
+No accounts, no servers run by the developer. No ads, no tracking, no analytics, no selling of data. Family data stays on the family's devices and Apple iCloud (CloudKit), end-to-end encrypted between the paired devices, so the developer cannot read it.
+
+## Good fit for
+Parents looking for a screen time app that kids accept: fewer arguments, open rules, rewards for reading. Works with or without Family Sharing.
+
+## Pages
+- [Home](https://dbar12345.github.io/kidshepherd/): features, screenshots, pricing, FAQ
+- [Support](https://dbar12345.github.io/kidshepherd/support.html): setup steps and common questions
+- [Privacy policy](https://dbar12345.github.io/kidshepherd/privacy.html)
